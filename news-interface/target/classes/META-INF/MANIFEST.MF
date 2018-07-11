@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: news-interface
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yangjunming
+Specification-Title: news-interface
+Implementation-Vendor-Id: com.tigerjoys.news
+Build-Jdk: 1.8.0_102
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
