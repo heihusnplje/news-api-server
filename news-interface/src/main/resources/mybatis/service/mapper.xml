@@ -12,11 +12,11 @@
   </settings>
 
   <typeAliases>
-    <typeAlias type="com.tigerjoys.shark.miai.inter.entity.WorldCupGameEntity" alias="worldCupGame" />
+  	<typeAlias type="com.tigerjoys.news.inter.entity.YdzxInfoEntity" alias="ydzxInfo" />
   </typeAliases>
 
   <mappers>
-    <mapper resource="mybatis/service/send-sms-mapper.xml"/>
+   <mapper resource="mybatis/ydzx-info-mapper.xml"/>
   </mappers>
 
 </configuration>
