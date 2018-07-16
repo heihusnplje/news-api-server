@@ -13,10 +13,12 @@
 
   <typeAliases>
   	<typeAlias type="com.tigerjoys.news.inter.entity.YdzxInfoEntity" alias="ydzxInfo" />
+  	<typeAlias type="com.tigerjoys.news.inter.entity.YdzxTestEntity" alias="ydzxTest" />
   </typeAliases>
 
   <mappers>
-   <mapper resource="mybatis/ydzx-info-mapper.xml"/>
+   <mapper resource="mybatis/service/ydzx-info-mapper.xml"/>
+   <mapper resource="mybatis/service/ydzx-test-mapper.xml"/>
   </mappers>
 
 </configuration>

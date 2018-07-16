@@ -7,9 +7,8 @@
     <artifactId>news-api-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.tigerjoys.news</groupId>
+ 
   <artifactId>news-interface</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>news-interface</name>
   <url>http://maven.apache.org</url>
   <properties>
